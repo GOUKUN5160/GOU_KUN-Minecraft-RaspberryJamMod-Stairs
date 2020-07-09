@@ -1,2 +1,2 @@
-# GOU_KUN-Minecraf&Python
-GOU_KUN's post on Minecraft & Python
+# MinecraftのRaspberryJamModで階段を自動で作ってみた
+
