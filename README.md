@@ -1,2 +1,2 @@
-# GOU_KUN-Minecraft
-GOU_KUN's Minecraft post
+# GOU_KUN-Minecraf&Python
+GOU_KUN's post on Minecraft & Python
